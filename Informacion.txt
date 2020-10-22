@@ -1,0 +1,38 @@
+"Modelo referencia OSI"
+Este modelo se basa en una propuesta desarrollada por la Organización Internacional de Normas (iso) como el primer paso hacia la estandarización internacional de los protocolos utilizados en las diversas capas (Day y Zimmerman, 1983). Este modelo se revisó en 1995 (Day, 1995) y se le llama Modelo de referencia OSI (Interconexión de Sistemas Abiertos, del inglés Open Systems Interconnection) de la iso puesto que se ocupa de la conexión de sistemas abiertos; esto es, sistemas que están abiertos a la comunicación con otros sistemas. Para abreviar, lo llamaremos modelo OSI.
+
+"El modelo de referencia TCP/IP"
+Pasemos ahora del modelo de referencia OSI al modelo de referencia que se utiliza en la más vieja de todas las redes de computadoras de área amplia: ARPANET y su sucesora, Internet. Aunque más adelante veremos una breve historia de ARPANET, es conveniente mencionar ahora unos cuantos aspectos de esta red. ARPANET era una red de investigación patrocinada por el DoD (Departamento de Defensa de Estados Unidos, del inglés U.S. Department of the Defense). En un momento dado llegó a conectar cientos de universidades e instalaciones gubernamentales mediante el uso de líneas telefónicas rentadas.
+
+Direcciones IP
+Las direcciones IPV4 se expresan mediante un número binario de 32 bits permitiendo un espacio de direcciones de hasta 4.294.967.296 (232) direcciones posibles. Las direcciones IP se pueden expresar como números de notación decimal: se dividen los 32 bits de la dirección en cuatro octetos. El valor decimal de cada octeto está comprendido en el intervalo de 0 a 255 [el número binario de 8 bits más alto es 11111111 y esos bits, de derecha a izquierda, tienen valores decimales de 1, 2, 4, 8, 16, 32, 64 y 128, lo que suma 255]. 
+En la expresión de direcciones IPv4 en decimal se separa cada octeto por un carácter único ".". Cada uno de estos octetos puede estar comprendido entre 0 y 255.
+
+Ejemplo de representación de dirección IPv4: 10.128.1.253, 192.168.255.254/18
+En las primeras etapas del desarrollo del Protocolo de Internet,5​ los administradores de Internet interpretaban las direcciones IP en dos partes, los primeros 8 bits para designar la dirección de red y el resto para individualizar la computadora dentro de la red. Este método pronto probó ser inadecuado, cuando se comenzaron a agregar nuevas redes a las ya asignadas. En 1981 el direccionamiento internet fue revisado y se introdujo  la arquitectura de clases. (classful network architecture).6​ En esta arquitectura hay tres clases de direcciones IP que una organización puede recibir de parte de la Internet Corporation for Assigned Names and Numbers (ICANN): clase A, clase B y clase C
+
+
+Referencias:
+https://es.wikipedia.org/wiki/Dirección_IP#:~:text=La%20dirección%20IP%20es%20un,modelo%20TCP%2FIP.%E2%80%8B%20La
+Carrión, A., & Wendy, E. (25 de Septiembre de 2020). Redes de computadoras. Obtenido de http://repositorio.une.edu.pe/bitstream/handle/UNE/4118/REDES%20DE%20COMPUTADORAS.pdf?seque
+Informatica Redes de computadoras . (26 de Septiembre de 202). Obtenido de https://sites.google.com/site/informaticaredesdecomputadoras/unidad-1-Introduccin-a-las-redes-de-datos/1-2-conceptos-basicos-y-componentes-de-una-red
+Redes de Telecomunicaciones . (26 de Septirmbre de 2020). Obtenido de https://jobmmc.files.wordpress.com/2017/10/redes-de-comunicaciones.pdf
+
+* Rrealizado por:
+"Nanci Arai Uicab Balam"
+Matricula: 
+18070061
+* Telefono: 
+9841292950
+9842394065
+* Correo:
+nanci.uicabbalam@itsva.edu.mx
+panhead077@gmail.com
+nancyara088@gmail.com
+* codigo postal
+77300
+77306
+97783
+* horarios de clase
+lunes a miercoles: 14:00 a 21:00
+jueves y viernes: 16:00 a 20:00
